@@ -1,0 +1,12 @@
+{
+  "seed": 17,
+  "probe_slots": 4,
+  "probe_seconds": 8,
+  "per_probe_seconds": 1,
+  "token_cap": 12000,
+  "lambda": 0.5,
+  "mu": 0.05,
+  "tool_cap": 24,
+  "executor_seconds": 30,
+  "repair_seconds": 4
+}
